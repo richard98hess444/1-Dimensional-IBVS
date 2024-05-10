@@ -1,7 +1,13 @@
 # Launching the Package Steps by Steps
 
 ## Demo Video
+### 1. Regulation
 https://github.com/richard98hess444/1-Dimensional-IBVS/assets/60200896/6e6f6151-a3d2-41da-a7d1-a39e3982f674
+
+### 2. Tracking
+https://github.com/richard98hess444/1-Dimensional-IBVS/assets/60200896/d7649d5b-19d4-44a3-9013-6bc43ed5347f
+
+
 
 ### 1. Realsense
 ```
