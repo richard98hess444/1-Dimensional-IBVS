@@ -23,6 +23,10 @@ rosrun visual_servoing rs_detection.py
 ```
 rosrun rosserial_python serial_node.py /dev/tty* # change with your device
 ```
+Use the command to find the port of your Arduino
+```
+ls dev/tty*
+```
 
 ### 4. IBVS Code
 ```
